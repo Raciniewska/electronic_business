@@ -1,3 +1,3 @@
 # electronic_business
-konieczne jest zainstalowanie bibloteki scrapy\n
-odpalanie z konsoli komendą: scrapy runspider spider.py
+# konieczne jest zainstalowanie bibloteki scrapy
+# odpalanie z konsoli komendą: scrapy runspider spider.py
